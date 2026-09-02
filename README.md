@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0050-powx-n) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
