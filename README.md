@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
@@ -25,4 +26,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
