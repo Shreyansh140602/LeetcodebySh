@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0128-longest-consecutive-sequence) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
