@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0120-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
@@ -76,4 +78,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0004-median-of-two-sorted-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
