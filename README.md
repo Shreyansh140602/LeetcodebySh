@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
@@ -68,15 +69,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Divide and Conquer
 |  |
 | ------- |
