@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0051-n-queens) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0120-triangle) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
