@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0041-first-missing-positive) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0120-triangle) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0128-longest-consecutive-sequence) |
 ## Union-Find
 |  |
