@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0120-triangle) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0120-triangle) |
 ## Two Pointers
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Shreyansh140602/LeetcodebySh/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
